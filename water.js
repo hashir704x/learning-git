@@ -3,3 +3,4 @@ function drinkWater() {
     console.log("Drinking water...");
 }
 drinkWater();
+
